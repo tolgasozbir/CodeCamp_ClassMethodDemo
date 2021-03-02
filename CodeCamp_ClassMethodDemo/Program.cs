@@ -26,6 +26,8 @@ namespace CodeCamp_ClassMethodDemo
             customerManager.CustomerList(customers);
 
             Console.ReadKey();
+
+            //Console.WriteLine("Hello Wordl!");
         }
     }
 }
